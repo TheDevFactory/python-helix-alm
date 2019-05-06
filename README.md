@@ -1,4 +1,4 @@
-# Using Pything with the REST API From Helix ALM (Perforce Software Inc)
+# Using Python (.py) with the REST API From Helix ALM (Perforce Software Inc)
 
 Using python with the Helix ALM (TestTrack) REST API.
 
